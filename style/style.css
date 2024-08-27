@@ -1,0 +1,62 @@
+.conteiner {
+    margin: 0 20%;
+}
+
+.wrapper {
+    display: flex;
+    position: relative;
+    justify-content: space-between;
+}
+
+.main-logo {
+    width: 100px;
+}
+
+.logo {
+    position: relative;
+    left: -27%;
+}
+
+.contact {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+.header-text{
+    color: #0178c4;
+    text-align: center;
+    margin-top: 1.5%;
+}
+
+.main-wrapper-first {
+
+}
+
+h1, h2 {
+    margin-top: 0;
+    text-align: center;
+}
+
+body {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+header {
+    background-color: #1B262C;
+    position: relative;
+}
+
+i {
+    color: #0178c4;
+}
+
+ul {
+    list-style-type: none;
+}
+
+main {
+    background-color: #3282B8;
+    position: relative;
+}
